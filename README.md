@@ -1,7 +1,3 @@
 ### Hi there 👋
-
-
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on [PyTorch Geometric Temporal]()
-- 🤔 I’m looking for help with ...
+- I’m searching for people who would love to collaborate on [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal).
+- 
