@@ -1,7 +1,7 @@
 ### :sparkler: Hello darkness, my old friend :sparkler:
 -  
--  Currently working on machine learning for temporal and dynamic graph structured data.
-- :alarm_clock: I’m searching for people who would love to collaborate on [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal).
+- :alarm_clock: Currently working on machine learning for temporal and dynamic graph structured data.
+- :handshake: I’m searching for people who would love to collaborate on [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal).
 - :email: Ask me about fancypants graph mining problems - see my e-mail on the left.
 
 ### :fireworks: Great News :fireworks:
