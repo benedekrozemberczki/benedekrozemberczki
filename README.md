@@ -3,5 +3,5 @@
 
 ### :fireworks: Great News :fireworks:
 - :japanese_castle: [Karate Club](): An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs was accepted in CIKM '20.
-- :cat2: [Little Ball of Fur](): A Python Library for Graph Sampling was accepted in CIKM '20.
+- :cat2: [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur): A Python Library for Graph Sampling was accepted in CIKM '20.
 
