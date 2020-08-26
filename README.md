@@ -4,7 +4,7 @@
 - 
 - Currently working on machine learning for temporal and dynamic graph structured data.
 - I’m searching for people who would love to collaborate on [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal).
-- Ask me about fancypants graph mining problems. 
+- :mail: Ask me about fancypants graph mining problems: benedek@rozemberczki @ gmail.com 
 
 ### :fireworks: Great News :fireworks:
 - :bird: [Characteristic Functions on Graphs](https://github.com/benedekrozemberczki/FEATHER): Birds of a Feather, from Statistical Descriptors to Parametric Models was accepted in CIKM.
