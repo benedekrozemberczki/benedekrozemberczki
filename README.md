@@ -1,4 +1,4 @@
-### :sparkler: Hello darkness, my old friend :sparkler:
+### :sparkler: Welcome stranger :sparkler:
 -  
 - :alarm_clock: Currently working on machine learning for temporal and dynamic graph structured data.
 - :robot: I would love to collaborate on [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal). Ping me if you are interested.
