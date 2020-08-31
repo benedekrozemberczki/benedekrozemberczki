@@ -1,6 +1,6 @@
-When I was a kid, I learned that time slows near a black hole. 
-Inside a black hole time stops all together. 
-Whether or not this theory will ever be proved,
+When I was a kid, I learned that time slows near a black hole. <br> 
+Inside a black hole time stops all together. <br> 
+Whether or not this theory will ever be proved,<br> 
 I am moved to believe, this would be the perfect place to love someone.
 
 ### :sparkler: Welcome stranger :sparkler:
