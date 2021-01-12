@@ -9,3 +9,4 @@
 - :cat2: [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur): A Python Library for Graph Sampling was accepted in CIKM.
 - :brain: [Pathfinder Discovery Networks for Neural Message Passing](https://arxiv.org/abs/2010.12878) a joint paper with the Google AI OMEGA team is available on arXiv.
 - :crystal_ball: [The Shapley Value of Classifiers in Ensemble Games](https://arxiv.org/abs/2010.12878) is available on arXiv.
+- :web: [The Shapley Value of Classifiers in Ensemble Games](https://arxiv.org/abs/2010.12878) is available on arXiv.
