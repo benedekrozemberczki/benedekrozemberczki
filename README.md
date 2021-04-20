@@ -3,6 +3,7 @@
 - :robot: I would love to collaborate on [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal).
 
 ### :fireworks: Great news :fireworks:
+- :brain: [Pathfinder Discovery Networks for Neural Message Passing](https://arxiv.org/abs/2010.12878) was accepted in the Journal of Complex Networks.
 - :crystal_ball: [The Shapley Value of Classifiers in Ensemble Games](https://arxiv.org/abs/2101.02153) is on arXiv.
 - :diamonds: [PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models](https://arxiv.org/abs/2104.07788) is on arXiv.
 - :brain: [Pathfinder Discovery Networks for Neural Message Passing](https://arxiv.org/abs/2010.12878) was accepted in the WWW '21.
