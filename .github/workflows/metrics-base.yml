@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: rougier
+          user: benedekrozemberczki
           template: classic
           filename: metrics-base.svg
           base: header, activity, community, repositories
