@@ -1,8 +1,11 @@
 <p><pre align="center">
 <strong>Benedek A. Rozemberczki/</strong> <a href="https://www.labri.fr/perso/nrougier">Homepage</a> / <a href="https://twitter.com/benedekrozemberczki">Twitter</a> / <a href="https://www.reddit.com/user/benitorosenberg/submitted/?sort=top">Reddit</a> / <a href="https://github.com/benedekrozemberczki">GitHub</a> / <a href="https://scholar.google.com/citations?user=pa8DvbkAAAAJ&hl=en&oi=ao">Google Scholar</a></pre></p>
 
-<a href="https://metrics.lecoq.io/about/rougier"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
-<a href="https://metrics.lecoq.io/about/rougier"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/benedekrozemberczki"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/benedekrozemberczki"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
+
+
+
 
 
 I’m a researcher ...
