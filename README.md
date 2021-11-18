@@ -3,14 +3,6 @@
 
 <a href="https://metrics.lecoq.io/about/benedekrozemberczki"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
 <a href="https://metrics.lecoq.io/about/benedekrozemberczki"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
-
-
-<br/>
-<a href="https://github.com/rougier/scientific-visualization-book">
-  
-<img src="https://raw.githubusercontent.com/rougier/rougier/master/img/book.png" width="100%"/>
-
-<br/>
   
 ### :sparkler: Welcome stranger :sparkler:
 - :alarm_clock: Currently working on machine learning for temporal and dynamic graph structured data.
