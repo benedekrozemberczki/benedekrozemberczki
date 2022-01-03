@@ -6,5 +6,6 @@
 - :robot: I would love to collaborate on the machine learning libraries [RexMex](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) and  [ChemicalX](https://github.com/benedekrozemberczki/pytorch_geometric_temporal).
 
 ### :fireworks: Great news :fireworks:
-- :crystal_ball: [The Shapley Value of Classifiers in Ensemble Games](https://arxiv.org/abs/2101.02153) was accepted in CIKM 2021.
 - :diamonds: [PyTorch Geometric Temporal](https://arxiv.org/abs/2104.07788) received a **best paper award** at CIKM 2021.
+- :crystal_ball: []() is out on ArXiv.
+- :crystal_ball: []() is out on ArXiv.
