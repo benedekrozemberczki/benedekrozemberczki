@@ -7,5 +7,5 @@
 
 ### :fireworks: Great news :fireworks:
 - :diamonds: [PyTorch Geometric Temporal](https://arxiv.org/abs/2104.07788) received a **best paper award** at CIKM 2021.
-- :crystal_ball: []() is out on ArXiv.
+- :crystal_ball: [A Unified View of Relational Deep Learning for Drug Pair Scoring](https://arxiv.org/abs/2111.02916) is out on ArXiv.
 - :crystal_ball: []() is out on ArXiv.
