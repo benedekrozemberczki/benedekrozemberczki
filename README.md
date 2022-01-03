@@ -3,7 +3,7 @@
 
 ### :sparkler: Welcome stranger :sparkler:
 - :alarm_clock: Currently working on machine learning for drug discovery.
-- :robot: I would love to collaborate on [rexmex](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) and  [ChemicalX](https://github.com/benedekrozemberczki/pytorch_geometric_temporal).
+- :robot: I would love to collaborate on the machine learning libraries [RexMex](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) and  [ChemicalX](https://github.com/benedekrozemberczki/pytorch_geometric_temporal).
 
 ### :fireworks: Great news :fireworks:
 - :crystal_ball: [The Shapley Value of Classifiers in Ensemble Games](https://arxiv.org/abs/2101.02153) was accepted in CIKM 2021.
