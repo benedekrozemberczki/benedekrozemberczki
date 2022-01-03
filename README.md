@@ -7,4 +7,4 @@
 
 ### :fireworks: Great news :fireworks:
 - :crystal_ball: [The Shapley Value of Classifiers in Ensemble Games](https://arxiv.org/abs/2101.02153) was accepted in CIKM 2021.
-- :diamonds: [PyTorch Geometric Temporal](https://arxiv.org/abs/2104.07788) was accepted in CIKM 2021.
+- :diamonds: [PyTorch Geometric Temporal](https://arxiv.org/abs/2104.07788) received best paper award at CIKM 2021.
