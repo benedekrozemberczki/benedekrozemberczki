@@ -3,7 +3,7 @@
 
 ### :sparkler: Welcome stranger :sparkler:
 - :alarm_clock: Currently working on machine learning for drug discovery.
-- :robot: I would love to collaborate on the machine learning libraries [RexMex](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) and  [ChemicalX](https://github.com/benedekrozemberczki/pytorch_geometric_temporal).
+- :robot: I would love to collaborate on the machine learning libraries [RexMex](https://github.com/AstraZeneca/rexmex) and  [ChemicalX](https://github.com/AstraZeneca/chemicalx).
 
 ### :fireworks: Great news :fireworks:
 - :diamonds: [PyTorch Geometric Temporal](https://arxiv.org/abs/2104.07788) received a **best paper award** at CIKM 2021.
