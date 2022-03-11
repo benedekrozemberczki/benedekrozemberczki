@@ -6,8 +6,8 @@
 - :robot: I would love to collaborate on the machine learning libraries [RexMex](https://github.com/AstraZeneca/rexmex) and  [ChemicalX](https://github.com/AstraZeneca/chemicalx).
 
 ### :fireworks: Great news :fireworks:
-- :diamonds: [PyTorch Geometric Temporal](https://arxiv.org/abs/2104.07788) received a **best paper award** at CIKM 2021.
-- :star: [A Unified View of Relational Deep Learning for Drug Pair Scoring](https://arxiv.org/abs/2111.02916) is out on ArXiv.
 - 🪙 [The Shapley Value in Machine Learning](https://arxiv.org/abs/2202.05594) is out on ArXiv.
 - ⚗️ [ChemicalX: A Deep Learning Library for Drug Pair Scoring](https://arxiv.org/abs/2202.05240) is out on Arxiv, checkout the [code](https://github.com/AstraZeneca/chemicalx).
 - :dna: [MOOMIN: Deep Molecular Omics Network for Anti-Cancer Drug Combination Therapy](https://arxiv.org/pdf/2110.15087.pdf) is out on ArXiv.
+- :diamonds: [PyTorch Geometric Temporal](https://arxiv.org/abs/2104.07788) received a **best paper award** at CIKM 2021.
+- :star: [A Unified View of Relational Deep Learning for Drug Pair Scoring](https://arxiv.org/abs/2111.02916) is out on ArXiv.
