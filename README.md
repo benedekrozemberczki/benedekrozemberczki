@@ -3,7 +3,7 @@
 
 ### :sparkler: Welcome stranger :sparkler:
 - :alarm_clock: Currently working on machine learning for drug discovery.
-- :robot: I would love to collaborate on the machine learning libraries [RexMex](https://github.com/AstraZeneca/rexmex) and  [ChemicalX](https://github.com/AstraZeneca/chemicalx).
+- :robot: I would love to collaborate on the machine learning libraries [ChemicalX](https://github.com/AstraZeneca/chemicalx) and [RexMex](https://github.com/AstraZeneca/rexmex).
 
 ### :fireworks: Great news :fireworks:
 - 🪙 [The Shapley Value in Machine Learning](https://arxiv.org/abs/2202.05594) is out on ArXiv.
