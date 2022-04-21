@@ -1,5 +1,5 @@
 <p><pre align="center">
-<strong>Benedek A. Rozemberczki/</strong> <a href="https://github.com/benedekrozemberczki/benedekrozemberczki">Homepage</a> / <a href="https://twitter.com/benedekrozemberczki">Twitter</a> / <a href="https://www.reddit.com/user/benitorosenberg/submitted/?sort=top">Reddit</a> / <a href="https://github.com/benedekrozemberczki">GitHub</a> / <a href="https://scholar.google.com/citations?user=pa8DvbkAAAAJ&hl=en&oi=ao">Google Scholar</a></pre></p>
+<strong>Benedek A. Rozemberczki/</strong> <a href="https://github.com/benedekrozemberczki/benedekrozemberczki">Homepage</a> / <a href="https://twitter.com/benrozemberczki">Twitter</a> / <a href="https://www.reddit.com/user/benitorosenberg/submitted/?sort=top">Reddit</a> / <a href="https://github.com/benedekrozemberczki">GitHub</a> / <a href="https://scholar.google.com/citations?user=pa8DvbkAAAAJ&hl=en&oi=ao">Google Scholar</a></pre></p>
 
 ### :sparkler: Welcome stranger :sparkler:
 - :alarm_clock: Currently working on machine learning for drug discovery.
