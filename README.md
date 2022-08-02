@@ -9,5 +9,5 @@
 - 🪙 [The Shapley Value in Machine Learning](https://arxiv.org/abs/2202.05594) was accepted at IJCAI 2022.
 - :star: [A Unified View of Relational Deep Learning for Drug Pair Scoring](https://arxiv.org/abs/2111.02916) was accepted at IJCAI 2022.
 - ⚗️ [ChemicalX: A Deep Learning Library for Drug Pair Scoring](https://arxiv.org/abs/2202.05240) was accepted at KDD 2022.
-- :dna: [MOOMIN: Deep Molecular Omics Network for Anti-Cancer Drug Combination Therapy](https://arxiv.org/pdf/2110.15087.pdf) is out on ArXiv.
+- :dna: [MOOMIN: Deep Molecular Omics Network for Anti-Cancer Drug Combination Therapy](https://arxiv.org/pdf/2110.15087.pdf) was accepted at CIKM 2022.
 - :diamonds: [PyTorch Geometric Temporal](https://arxiv.org/abs/2104.07788) received a **best paper award** at CIKM 2021.
